@@ -1,0 +1,11 @@
+{
+  "name": "talkhao",
+  "version": "1.0.0",
+  "description": "Look up any Chinese word with its pinyin, meaning, HSK level, stroke order and sound, and keep track of the HSK words you are learning on Talkhao.",
+  "mcpServers": {
+    "talkhao": {
+      "httpUrl": "https://talkhao.ai/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

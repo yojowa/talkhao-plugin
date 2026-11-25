@@ -1,0 +1,17 @@
+{
+  "name": "talkhao",
+  "owner": {
+    "name": "Yojowa LLC",
+    "email": "support@yojowa.com"
+  },
+  "metadata": {
+    "description": "Talkhao for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "talkhao",
+      "source": "./",
+      "description": "Look up any Chinese word with its pinyin, meaning, HSK level, stroke order and sound, and keep track of the HSK words you are learning on Talkhao."
+    }
+  ]
+}

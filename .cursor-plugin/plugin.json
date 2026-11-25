@@ -1,0 +1,34 @@
+{
+  "name": "talkhao",
+  "displayName": "Talkhao",
+  "version": "1.0.0",
+  "description": "Look up any Chinese word with its pinyin, meaning, HSK level, stroke order and sound, and keep track of the HSK words you are learning on Talkhao.",
+  "author": {
+    "name": "Yojowa LLC",
+    "email": "support@yojowa.com",
+    "url": "https://yojowa.com"
+  },
+  "homepage": "https://talkhao.ai",
+  "repository": "https://github.com/yojowa/talkhao-plugin",
+  "license": "MIT",
+  "keywords": [
+    "talkhao",
+    "chinese",
+    "mandarin",
+    "hsk",
+    "pinyin",
+    "vocabulary",
+    "stroke order",
+    "language learning",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "category": "integrations",
+  "tags": [
+    "talkhao",
+    "chinese",
+    "education",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "talkhao": {
+      "type": "http",
+      "url": "https://talkhao.ai/mcp"
+    }
+  }
+}
